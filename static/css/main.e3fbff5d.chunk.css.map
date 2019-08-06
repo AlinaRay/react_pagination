@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,qCAA2C,CAC3C,gBACF,CAEA,mCACE,oBAAqB,CACrB,UACF","file":"main.e3fbff5d.chunk.css","sourcesContent":[".App {\n  background-color: rgba(251, 251, 251, 0.99);\n  min-height: 100vh;\n}\n\n.custom-form-control .form-control {\n  display: inline-block;\n  width: 3rem;\n}\n"]}
